@@ -1,0 +1,26 @@
+h1{
+    color: darkred;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+    color: darkred;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+th{
+    color: firebrick;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+table{
+    border-collapse: collapse;
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#menubar a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: cadetblue;
+    padding: 5px;
+}
+#menubar a:hover{
+    background-color: aliceblue;
+    color: darkred;
+}
